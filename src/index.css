@@ -3,3 +3,17 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+
+.nav { 
+ 	display: flex;
+
+  }
+
+.active-nav{
+	font-weight: bold;
+}
+
+.nav li { 
+	margin-right: 15px;
+ }
