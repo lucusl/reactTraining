@@ -10,5 +10,27 @@ li {
 
 .languages {
 	display: flex;
-	justify-content: center;
+	text-align: center;
+
+}
+
+
+.popular-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.popular-item{
+	margin :20px;
+	text-align: center;
+}
+
+.space-list-items{
+	margin-bottom: 10px;
+}
+
+.avartar{
+	width:150px;
+	border-radius: 50%;
 }
